@@ -29,4 +29,4 @@ Input data dengan metode param multiple
 
 ## Whats New?
 
-- Form & Log
+- Inputan Form & Log
