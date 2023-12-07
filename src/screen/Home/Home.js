@@ -12,7 +12,8 @@ const Home = () => {
   });
 
   const showData = () => {
-    console.info('cekdisini: ', form)
+    console.info('cekdisini: ');
+    console.info(JSON.stringify(form, null, ' '));
   };
 
   return (
