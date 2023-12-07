@@ -7,6 +7,8 @@ Riset Navigation React
 
 <img src="https://github.com/aspsptyd/react-native-research/assets/98740335/565399f0-3c0c-4884-a9cd-23ff40cb537f" width="300" />
 
+<img src="https://github.com/aspsptyd/react-native-research/assets/98740335/52360928-cf92-4880-b5d1-00c0734bce68" width="500" />
+
 ## React Native Version Installed 0.72.7
 
 ## Whats New?
