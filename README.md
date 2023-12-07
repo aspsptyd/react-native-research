@@ -15,7 +15,7 @@ _Collapse for see details_
 Log inputan data<br />
 <img src="https://github.com/aspsptyd/react-native-research/assets/98740335/52360928-cf92-4880-b5d1-00c0734bce68" width="500" /><br />
 Input data dengan metode param multiple, berikut kodingannya<br />
--------------------------------------------------------------------form.js
+------------------------------------------------------------------- form.js
 const [form, setForm] = useState({
   nama_lengkap: '',
   wa: '',
@@ -28,7 +28,7 @@ const [form, setForm] = useState({
 </details>
 
 <details open>
-<summary>2. Share data to another Stack</summary><br />
+<summary>2. Share data to another Stack :new:</summary><br />
 <pre>
 <i>On the way</i>
 </pre>
