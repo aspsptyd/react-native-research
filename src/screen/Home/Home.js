@@ -59,10 +59,10 @@ const Home = () => {
               <Text style={styles.textButtonLight}>Simpan</Text>
             </TouchableOpacity>
             <TouchableOpacity 
-              style={[styles.buttonPrimary, { flex: 1.5, backgroundColor: '#a6abb3', marginLeft: 10 }]} 
+              style={[styles.buttonPrimary, { flex: 1.5, backgroundColor: '#f2581f', marginLeft: 10 }]} 
               onPress={showData}
             >
-              <Text style={styles.textButtonLight}>Batalkan</Text>
+              <Text style={styles.textButtonLight}>Kirim Data</Text>
             </TouchableOpacity>
           </View>
         </View>
